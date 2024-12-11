@@ -1,0 +1,16 @@
+datetime
+tqdm
+numpy
+scipy
+ipywidgets
+nbinteract
+matplotlib
+seaborn
+geopandas
+pandas
+requests
+folium
+branca
+sklearn
+statsmodels
+xlrd
